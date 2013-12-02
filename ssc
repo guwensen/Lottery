@@ -1,0 +1,29 @@
+<div class="title">
+                            <b>最新开奖结果：</b>
+                            <span>20131201-094  21:40</span>
+                        </div>
+                        <div class="numbers mt20">
+                            <div class="red-blue-ball">8</div>
+                            <div class="red-blue-ball">9</div>
+                            <div class="red-blue-ball">2</div>
+                            <div class="red-blue-ball">7</div>
+                            <div class="red-blue-ball">5</div>
+                        </div>
+                        <table>
+                            <tr class="head-tr">
+                                <td colspan="3">总和</td>
+                                <td>龍虎</td>
+                                <td>前三</td>
+                                <td>中三</td>
+                                <td>后三</td>
+                            </tr>
+                            <tr>
+                                <td>31</td>
+                                <td>单</td>
+                                <td>大</td>
+                                <td>龍</td>
+                                <td>半顺</td>
+                                <td>杂六</td>
+                                <td>杂六</td>
+                            </tr>
+                        </table>

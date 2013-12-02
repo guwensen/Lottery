@@ -1,0 +1,48 @@
+# Project: Lottery
+# Makefile created by Dev-C++ 4.9.9.2
+
+CPP  = g++.exe
+CC   = gcc.exe
+WINDRES = windres.exe
+RES  = 
+OBJ  = main.o lottery.o gdkl10f.o utilities.o cqssc.o ConvertUTF.o htmlparser.o $(RES)
+LINKOBJ  = main.o lottery.o gdkl10f.o utilities.o cqssc.o ConvertUTF.o htmlparser.o $(RES)
+LIBS =  -L"d:/Dev-Cpp/lib"  
+INCS =  -I"d:/Dev-Cpp/include" 
+CXXINCS =  -I"d:/Dev-Cpp/include" 
+BIN  = Lottery.exe
+CXXFLAGS = $(CXXINCS)  
+CFLAGS = $(INCS)  
+RM = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before Lottery.exe all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o "Lottery.exe" $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+lottery.o: lottery.cpp
+	$(CPP) -c lottery.cpp -o lottery.o $(CXXFLAGS)
+
+gdkl10f.o: gdkl10f.cpp
+	$(CPP) -c gdkl10f.cpp -o gdkl10f.o $(CXXFLAGS)
+
+utilities.o: utilities.cpp
+	$(CPP) -c utilities.cpp -o utilities.o $(CXXFLAGS)
+
+cqssc.o: cqssc.cpp
+	$(CPP) -c cqssc.cpp -o cqssc.o $(CXXFLAGS)
+
+ConvertUTF.o: ConvertUTF.c
+	$(CPP) -c ConvertUTF.c -o ConvertUTF.o $(CXXFLAGS)
+
+htmlparser.o: htmlparser.cpp
+	$(CPP) -c htmlparser.cpp -o htmlparser.o $(CXXFLAGS)

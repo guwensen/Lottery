@@ -1,0 +1,1078 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="apple-itunes-app" content="app-id=427927518" />
+<meta property="qc:admins" content="2012211377645053116375" />
+
+
+
+<link rel="shortcut icon" href="http://static.lehecai.com/img/favicon.ico?v=2.9.37" />
+<link rel="stylesheet" href="http://static.lehecai.com/css/??common.css?v=2.9.37" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="http://static.lehecai.com/css/cooperator/baidu/common.css?v=2.9.37" type="text/css" media="screen" />
+
+
+
+
+
+
+<script type="text/javascript" src="http://static.lehecai.com/js/??jquery.min.js,common.js,check_mobile.js?v=2.9.37"></script>
+
+<script type="text/javascript" src="//static.d.lecai.com/js/m.js?v=2.9.37"></script>
+
+<script type="text/javascript" src="http://cbjs.baidu.com/js/m.js"></script>
+<script type="text/javascript">
+    G.baseUrl = 'http://baidu.lecai.com';
+    G.baseMainUrl = 'http://baidu.lecai.com';
+    G.basePassportUrl = 'https://passport.lecai.com';
+    G.baseJsUrl = 'http://static.lehecai.com/js';
+    G.baseImgUrl = 'http://static.lehecai.com/img';
+    G.baseDataUrl = 'http://data.baidu.lecai.com';
+    G.versionCSS = '2.9.37';
+    G.versionRIA = '2.9.37';
+    G.baseChartUrl = 'http://chart.lehecai.com';
+    var UID = 0;
+    var USERNAME = '';
+</script>
+
+<script>
+jQuery(document).ready(function() {
+    try {
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "//hm.baidu.com/hm.js?7b762fae745de11f6aafdc5eeebd1c43";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    } catch (e) {
+        logger.error(e);
+    }
+});
+</script>
+<script type="text/javascript">
+    G.siteName = 'baidu_lecai';
+</script>
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+    <title>时时彩 20131201067期，开奖结果：45402，时时彩开奖号码 - 乐彩 - 时时彩|开奖公告|开奖结果|开奖查询|历史开奖</title>
+    <meta name="description" content="乐彩彩票网时时彩开奖结果查询。时时彩20131201067期，开奖结果：45402。" />
+    <meta name="keywords" content="时时彩20131201067期，时时彩20131201067期开奖结果，时时彩20131201067期开奖号码" />
+    <link rel="stylesheet" href="http://static.lehecai.com/css/lottery/draw/detail.css?v=2.9.37" type="text/css" media="screen" />
+    <script type="text/javascript">
+        var hide_ads = false;
+        try {
+        BAIDU_CLB_addSlot("148293","148294","148295","148296");
+        BAIDU_CLB_enableAllSlots();
+        BAIDU_CLB_preloadSlots("148293","148294","148295","148296");
+    } catch(e) {}
+    var selected_phase = '';
+    var selected_date = '2013-12-01';
+    </script>
+    <style type="text/css">
+        #baidu_clb_slot_148293 {
+            margin: 10px auto 0 auto;
+            width:986px;
+        }
+        #baidu_clb_slot_148294 {
+            margin-bottom: 10px;
+        }
+        #baidu_clb_slot_148295 {
+            margin-top: 10px;
+        }
+        #baidu_clb_slot_393108 {
+            margin-bottom: 10px;
+        }
+    </style>
+    <script type="text/javascript">
+    var currentPhaseCache = {"phasetype":200,"phase":"20131201068","create_at":"2013-09-22 15:50:15","time_startsale":"2013-12-01 17:10:00","time_endsale":"2013-12-01 17:20:00","time_endticket":"2013-12-01 17:20:00","time_draw":"2013-12-01 17:21:00","status":2,"forsale":1,"is_current":1,"result":null,"result_detail":null,"pool_amount":"","sale_amount":"","ext":"","fc3d_sjh":null,"terminal_status":1,"fordraw":0,"time_startsale_fixed":"2013-12-01 17:08:00","time_endsale_fixed":"2013-12-01 17:18:00","time_endsale_syndicate_fixed":"2013-12-01 17:20:00","time_endsale_upload_fixed":"2013-12-01 17:20:00","time_draw_fixed":"2013-12-01 17:21:00","time_startsale_correction":120,"time_endsale_correction":120,"time_endsale_syndicate_correction":0,"time_endsale_upload_correction":0,"time_draw_correction":0,"time_exchange":"2014-01-29 17:21:00","stopsale_info":{"stopsale":false,"stop_reason":""},"generated_datetime":"2013-12-01 17:13:42"};
+    </script
+ </head>
+  <body>
+   
+
+<!--
+<div class="top_banner maintain_notice" id="top_banner">
+    <style type="text/css">
+        .maintain_notice {position: relative; width: 100%; background-color:#ffe9a4; height: 25px; line-height: 25px;}
+        .maintain_content {width: 986px; margin: 0 auto; text-align: center;}
+    </style>
+    <div class="maintain_content">
+        <a href="http://baidu.lecai.com/page/static/2013/6/132511.shtml" target="_blank">由于机房线路升级，网站将于6月14日0:00-8:00进行维护，届时可能会导致访问不畅，敬请谅解</a>
+    </div>
+</div>
+-->
+<!--
+<div class="top_banner" id="top_banner" style="display: none;">
+    <style type="text/css">
+        .top_banner {position: relative; width: 986px; margin: 0 auto;}
+        .top_banner .banner_lecai_switch {background: url(http://static.lehecai.com/img/banner/banner_lecai_switch.jpg) no-repeat center; width: 986px; height: 70px; cursor: pointer;}
+        .top_banner .banner_lecai_switch_close {position: absolute; right: 0; top: 0; width: 45px; height: 15px; cursor: pointer;}
+    </style>
+    <script type="text/javascript">
+        var cookie_name = 'banner_lecai_switch';
+        var banner_cookie = jQuery.cookie(cookie_name);
+        if (typeof(banner_cookie) == 'undefined' || banner_cookie == null) {
+            jQuery('#top_banner').show();
+        }
+        function close_top_banner() {
+            jQuery('#top_banner').hide();
+            jQuery.cookie(cookie_name, '1', {path: '/'});
+        }
+    </script>
+    <a title="乐和彩新域名www.lecai.com正式启用" href="http://baidu.lecai.com/page/static/2012/8/88948.shtml" target="_blank"><div class="banner_lecai_switch"></div></a>
+    <div title="关闭" class="banner_lecai_switch_close" id="banner_lecai_switch_close" onclick="close_top_banner();"></div>
+</div>
+-->
+
+
+
+
+<div class="header" id="header">
+
+<div class="cdlist">
+    <ul class="customerService">
+        <li class="online_service"><a href="http://tb.53kf.com/webCompany.php?arg=fuchenkeji&style=1" target="_blank">&nbsp;</a> </li>
+        <li class="hotline">客服电话:&nbsp;400-636-1818 </li>
+    </ul>
+    <ul id="toptray_login" class="hidden toptray">
+        <li class="toptray_l">
+            <ul>
+                <li>您好，<span id="toptray_username"></span></li>
+                <li class="header_show_money">
+                    <a href="javascript://" id="header_show_money">显示余额</a>
+                    <div id="wallet_container">
+                        <span class="span_login_rmb">￥</span>
+                        <span id="header_user_money" class="span_login_rmb_2">*****</span><span>元</span><input type="hidden" id="header_user_money_hidden"/>
+                        <div id="wallet_detail" style="display:none;"></div>
+                    </div>
+                    <img src="http://static.lehecai.com/img/f5.gif" id="header_money_refresh" class="img_login_refresh"/>
+                                        <a href="http://baidu.lecai.com/user/paypassword/update" target="_blank"><span id="pay_lock" class="pay_lock_grey"></span></a>
+                    <div class="pay_lock_box" id="pay_lock_box" style="display: none">
+                        <img src="http://static.lehecai.com/img/user/triangular_line.gif" />
+                        <span>未开启支付验证</span>
+                    </div>
+                                    </li>
+            </ul>
+        </li>
+        <li class="toptray_r">
+            <ul>
+                <li class="mylottery" id="mylottery">
+                    <a href="http://baidu.lecai.com/user/mylottery/"><span class="nosign" id='header_sign'></span>我的彩票</a>
+                    <div id="mylottery_dropdown" style="display: none;" class="lot_list">
+                        <ul>
+                            <li><a href="http://baidu.lecai.com/user/order/">我的投注记录</a></li>
+                            <li><a href="http://baidu.lecai.com/user/order/win/">我的中奖记录</a></li>
+                            <li><a href="http://baidu.lecai.com/user/view/">我的战绩</a></li>
+                            <li><a href="http://baidu.lecai.com/user/credit/">我的彩贝</a></li>
+                            
+                            <li><a href="http://baidu.lecai.com/user/update/profile/">账户信息</a></li>
+                            <li><a href="http://baidu.lecai.com/user/order/notpaid/">未支付订单</a><span id="header_notpaid_counter" class="notpaid"></span></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="http://baidu.lecai.com/user/recharge/">充值</a> &nbsp;|</li>
+                <li><a href="http://baidu.lecai.com/user/withdraw/">提款</a> &nbsp;|</li>
+                <li><a href="http://baidu.lecai.com/user/logout/">[退出]</a></li>
+            </ul>
+        </li>
+    </ul>
+    <ul id="toptray_not_login" class="toptray">
+        <li class="toptray_l">
+            <ul>
+                <li>您好，欢迎来到百度乐彩！</li>
+                <li><a href="http://baidu.lecai.com/user/login/">登录</a> &nbsp;|</li>
+                <li><a href="http://baidu.lecai.com/user/register/">免费注册</a></li>
+            </ul>
+        </li>
+        <li class="toptray_r">
+            <ul>
+                <li class="mylottery"><a href="http://baidu.lecai.com/user/mylottery/"><span class="nosign"></span>我的彩票</a></li>
+                <li><a href="http://baidu.lecai.com/user/recharge/">充值</a> &nbsp;|</li>
+                <li><a href="http://baidu.lecai.com/user/withdraw/">提款</a></li>
+            </ul>
+        </li>
+    </ul>
+    <div class="clear"></div>
+</div>
+
+
+<div class="header_logo">
+    <div class="logo" style="width:317px;"><a href="http://baidu.lecai.com/" title="回到首页"><img src="http://static.lehecai.com/img/cooperator/baidu/baidu_lecai_logo.gif"></a></div>
+    <div class="header_logor" style="width:649px;">
+        <div class="header_logor_ad header_logor_ad_spec">
+            <script type="text/javascript">try {BAIDU_CLB_fillSlot("159313");} catch(e) {}</script>
+        </div>
+<div class="logo_nav">
+    <ul class="logo_nav_content">
+        <li><a href="http://baidu.lecai.com/mobile/" target="_blank">手机购彩</a></li>
+        <li class="logo_nav_point"><a href="http://baidu.lecai.com/user/hero/" target="_blank">英雄榜</a></li>
+        <li class="logo_nav_point"><a href="http://redirect.lehecai.com/rule" target="_blank">玩法</a></li>
+        <li class="logo_nav_point"><a href="http://baidu.lecai.com/lottery/tools/" target="_blank">彩票工具</a></li>
+        <li class="logo_nav_point"><a href="http://redirect.lehecai.com/help" target="_blank">帮助</a></li>
+        <li class="logo_nav_point"><a href="http://redirect.lehecai.com/bbs/forum-57-1.html" target="_blank">提问</a></li>
+    </ul>
+</div>
+
+    </div>
+    <div class="clear"></div>
+</div>
+
+
+<div class="header_nav">
+    <div class="lotterys" id="lotterys">
+        <div class="btn">选择彩票</div>
+<div class="lotterys_list" id="lotterysList" style="display: none;">
+    <div class="lottery_category">
+        <span class="lot_category_szc"></span>
+    </div>
+    <ul>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/ssq/">双色球</a><a href="http://baidu.lecai.com/page/static/2013/10/154190.shtml" target="_blank" class="jia" style="top: -5px; right: 2px;"></a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/dlt/">大乐透</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/fc3d/">3D</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/qxc/">七星彩</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/pl3/">排列3</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/hd15x5/">15选5</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/qlc/">七乐彩</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/pl5/">排列5</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/df6j1/">东方6+1</a></li>
+    </ul>
+    <div class="clear"></div>
+
+    <div class="lottery_category">
+        <span class="lot_category_gpc"></span>
+    </div>
+    <ul>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/cqssc/">时时彩</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/jxssc/">新时时彩</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/sdqyh/">群英会</a><a href="http://baidu.lecai.com/page/static/2013/11/162779.shtml" class="jia" target="_blank" style="top: -5px; right: 5px;"></a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/jx11x5/">11选5</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/sd11x5/">老11选5</a><a href="http://baidu.lecai.com/page/zhuanti/sd11x5_201310/" class="song" target="_blank" style="top: -5px; right: 5px;"></a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/sh11x5/">沪11选5</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/gd11x5/">新11选5</a><a href="http://baidu.lecai.com/page/zhuanti/x11x5_201311/" class="song" target="_blank" style="top: -5px; right: 5px;"></a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/cq11x5/">乐11选5</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/hnxysc/">幸运赛车</a><a href="http://baidu.lecai.com/page/static/2013/11/158674.shtml" class="jia" target="_blank" style="top: -5px; right: 5px;"></a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/gdkl10/">快乐十分</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/cqkl10/">幸运农场</a><a href="http://baidu.lecai.com/lottery/cqkl10/" class="new" style="top: -5px; right: 4px;"></a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/gxk3/">快3</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/ahk3/">乐快3</a><a href="http://baidu.lecai.com/lottery/ahk3/" class="new" style="top: -5px; right: 2px;"></a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/jlk3/">新快3</a></li>
+        <li class="s1"><a href="http://baidu.lecai.com/lottery/jsk3/">老快3</a></li>
+    </ul>
+    <div class="clear"></div>
+
+    <div class="lottery_category">
+        <span class="lot_category_jjc"></span>
+        <span class="lottery_category_sub"><a href="http://baidu.lecai.com/lottery/jczq/">竞彩混投</a></span>
+        <span class="lottery_category_sub"><a class="newbg" href="http://baidu.lecai.com/lottery/jclq/">篮彩混投</a></span>
+    </div>
+    <ul>
+        <li class="s3"><a href="http://baidu.lecai.com/lottery/zqdc/">北单</a><span>：</span></li>
+        <li class="s4"><a href="http://baidu.lecai.com/lottery/zqdc/spf/">胜平负</a></li>
+        <li class="s3"><a href="http://baidu.lecai.com/lottery/zqdc/bf/">比分</a></li>
+        <li class="s4"><a href="http://baidu.lecai.com/lottery/zqdc/jqs/">总进球</a></li>
+    </ul>
+    <div class="clear"></div>
+    <ul class="lottery_sports">
+        <li class="s3"><a href="http://baidu.lecai.com/lottery/jczq/">竞彩</a><span>：</span><a href="http://baidu.lecai.com/page/zhuanti/jc2x1_201308/" class="song" target="_blank" style="top: -5px; right: 2px;"></a></li>
+        <li class="s4"><a href="http://baidu.lecai.com/lottery/jczq/spf_wrq/">胜平负</a></li>
+        <li class="s3"><a href="http://baidu.lecai.com/lottery/jczq/bf/">比分</a></li>
+        <li class="s4" style="width: 60px;"><a href="http://baidu.lecai.com/lottery/jczq/spf/">让球胜平负</a></li>
+        <!--<li class="s4"><a href="http://baidu.lecai.com/lottery/jczq/jqs/">总进球</a></li>-->
+    </ul>
+    <div class="clear"></div>
+    <ul class="lottery_sports">
+        <li class="s3"><a href="http://baidu.lecai.com/lottery/jclq/">篮彩</a><span>：</span><a href="http://baidu.lecai.com/page/zhuanti/jclq_201310/" class="song" target="_blank" style="top: -5px; right: 2px;"></a></li>
+        <li class="s4"><a href="http://baidu.lecai.com/lottery/jclq/rfsf/">让分胜负</a></li>
+        <li class="s3"><a href="http://baidu.lecai.com/lottery/jclq/sf/">胜负</a></li>
+        <li class="s4"><a href="http://baidu.lecai.com/lottery/jclq/dxf/">大小分</a></li>
+        <li class="s3"><a href="http://baidu.lecai.com/lottery/sfc/">足彩<span>：</span></a></li>
+        <li class="s5"><a href="http://baidu.lecai.com/lottery/sfc/">14场胜负彩</a><a href="http://baidu.lecai.com/page/static/2013/9/147295.shtml" class="jia" style="top: -4px; right: -2px;"></a></li>
+        <li class="s5"><a href="http://baidu.lecai.com/lottery/sfr9/">任选9场</a><a href="http://baidu.lecai.com/page/static/2013/9/147295.shtml" class="jia" style="top: -4px; right: 14px;"></a></li>
+    </ul>
+    <div class="clear"></div>
+    <div class="lottery_category lotCategoryMore" id="lotCategoryMore">
+        <span class="lot_category_more"></span>
+        <span class="lot_more" id="lotMoreArrow">&gt;&gt;</span>
+        <div id="lotMoreBox" class="lot_morebox hidden">
+            <div class="forhiddenbox"></div>
+            <ul>
+                <li class="s01">数字彩：</li>
+                <li class="s02">
+                    <a href="http://baidu.lecai.com/lottery/x3d/">新3D</a>
+                    <a href="http://baidu.lecai.com/lottery/bjtc33x7/">北京33选7</a>
+                </li>
+            </ul>
+            <div class="underline"></div>
+            <ul>
+                <li class="s01">高频彩：</li>
+                <li class="s02">
+                    <a href="http://baidu.lecai.com/lottery/bjkl8/">快乐8</a>
+                    <a href="http://baidu.lecai.com/lottery/pk10/">PK拾</a>
+                    <!--
+                    <a href="http://baidu.lecai.com/lottery/shssl/">时时乐</a>
+                    <a href="http://baidu.lecai.com/lottery/hnkl10/">新快乐十分</a>
+                    <a href="http://baidu.lecai.com/lottery/gxkl10/">广西快乐十分</a>
+                    -->
+                </li>
+            </ul>
+            <div class="underline"></div>
+            <ul>
+                <li class="s01">竞技彩：</li>
+                <li class="hgauto s02">
+                    <ul>
+                        <li class="s03"><a href="http://baidu.lecai.com/lottery/zqdc/">北单</a>（<a href="http://baidu.lecai.com/lottery/zqdc/sxds">上下单双</a>&nbsp;&nbsp;<a href="http://baidu.lecai.com/lottery/zqdc/bqc">半全场</a>）</li>
+                        <li class="s03"><a href="http://baidu.lecai.com/lottery/jczq/">竞彩</a>（<a href="http://baidu.lecai.com/lottery/jczq/jqs/">总进球</a>&nbsp;&nbsp;<a href="http://baidu.lecai.com/lottery/jczq/bqc/">半全场</a>&nbsp;&nbsp;<a href="http://baidu.lecai.com/lottery/jczq/hhgg/dt">单关配<span class="new" style="top: -6px;"></span></a>&nbsp;&nbsp;<a href="http://baidu.lecai.com/lottery/jczq/hhgg_2x1">2选1<span class="new" style="top: -6px;"></span></a>）</li>
+                        <li class="s03"><a href="http://baidu.lecai.com/lottery/jclq/">篮彩</a>（<a href="http://baidu.lecai.com/lottery/jclq/sfc">胜分差</a>）</li>
+                        <li class="s03"><a href="http://baidu.lecai.com/lottery/sfc/">足彩</a>（<a href="http://baidu.lecai.com/lottery/jqc/">4场进球</a> &nbsp;&nbsp;<a href="http://baidu.lecai.com/lottery/bqc/">6场半全场</a>）</li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <ul class="nav">
+        <li class="navw1 "><a href="http://baidu.lecai.com/">首页</a></li>
+        <li class="navw2 "><a href="http://baidu.lecai.com/lottery/">购彩大厅</a></li>
+        <li class="navw2 "><a href="http://baidu.lecai.com/lottery/syndicate/">合买中心</a></li>
+        <li class="navw2 on"><a href="http://baidu.lecai.com/lottery/draw/">开奖公告</a></li>
+        <li class="navw2 "><a href="http://redirect.lehecai.com/trend">走势图表</a></li>
+        <li class="navw2 "><a href="http://baidu.lecai.com/cms/">彩票资讯</a></li>
+        <li class="dropdown_nav " id="dropdown_nav">
+            <a href="javascript://" class="dropdown_text">赛事数据</a>
+            <ul class="dropdown_ul" style="display: none;">
+                <li><a href="http://redirect.lehecai.com/data/football/" class="football">足球数据</a></li>
+                <li><a href="http://redirect.lehecai.com/data/basketball/" class="baskeball">篮球数据</a></li>
+                <li><a href="http://baidu.lecai.com/live/jczq/" class="live">比分直播</a></li>
+                <li><a href="http://baidu.lecai.com/page/zhuanti/5leagues_2013/" target="_blank" class="lueague">五大联赛</a></li>
+                <li><a href="http://baidu.lecai.com/page/zhuanti/nba_2014/index.shtml" target="_blank" class="nba">NBA专题</a></li>
+                <li><a href="http://baidu.lecai.com/vender/spdex/" class="spdex" target="_blank">必发指数</a></li>
+                                <li><a href="http://baidu.lecai.com/vender/mofang/" class="mofang" target="_blank">足球魔方</a></li>
+                            </ul>
+        </li>
+        <li class="navw2 "><a href="http://baidu.lecai.com/lottery/stats/ssq/">过关统计</a></li>
+        <li class="navw1 "><a href="http://baidu.lecai.com/user/credit/" target="_blank">彩贝</a></li>
+                        <li class="navw1 " style="position: relative;"><a href="http://baidu.lecai.com/game/" target="_blank">游戏<s class="nav_new_1"></s></a></li>
+                                <li class="navw1 last "><a href="http://redirect.lehecai.com/bbs" target="_blank">论坛</a></li>
+            </ul>
+    <div class="clear"></div>
+</div>
+
+
+</div>
+
+<script type="text/javascript">
+//全局广告位
+try {
+    BAIDU_CLB_addSlot("159313");
+    BAIDU_CLB_enableAllSlots();
+    BAIDU_CLB_preloadSlots("159313");
+} catch(e) {}
+
+var ajax_login_params;
+
+        (function() {
+        var is_ie6 = G.browser.msie && (G.browser.version == 6);
+        var jQuery_hidden_for_ie6;
+        jQuery('#lotterys').hover(function() {
+            if (is_ie6) {
+                jQuery_hidden_for_ie6 = jQuery('select:visible').css('visibility', 'hidden');
+            }
+            jQuery('#lotterysList').css({'display':'block'});
+            jQuery('.btn').addClass('btnOn');
+        }, function(){
+            jQuery('#lotterysList').css({'display':'none'});
+            jQuery('.btn').removeClass('btnOn');
+            if (is_ie6) {
+                jQuery_hidden_for_ie6.css('visibility', 'visible');
+            }
+        });
+    })();
+        
+
+
+jQuery.bindGlobalEvent(C.EVENT.LOGIN_SUCCESS, function(ev, userinfo) {
+    // 支付密码验证状态初始化
+    var timeRemaining = 0; // 剩余时间
+    var openedStatus = 1;   // 支付密码免验证开启
+    var closedStatus = 0;   // 支付密码免验证关闭
+    var currentTime = undefined;
+    var expireTime = undefined;
+
+    var checkStatus = function (){
+        if(timeRemaining > 0){
+            setTimeout(function () {
+                --timeRemaining;
+                setInfo(true, timeRemaining);
+                checkStatus();
+            }, 60 * 1000);
+        }else{
+            setInfo(false);
+        }
+    };
+
+    var setInfo = function (free, t){
+
+        var lockClass = '', msg = '';
+
+        if(free){
+            lockClass = 'pay_unlock';
+            msg = '免验证支付剩余' + t +'分钟';
+        }else{
+            lockClass = 'pay_lock';
+            msg = '未验证支付密码';
+        }
+        jQuery('#pay_lock').attr('class',lockClass);
+        jQuery('#pay_lock_box span').html(msg);
+    };
+
+    if (G.tmp.serverTime && userinfo && userinfo.paypassword) {
+
+        currentTime = parseDate(G.tmp.serverTime);
+        expireTime = parseDate(userinfo.paypassword.expire_at);
+
+        if (userinfo.paypassword.status == openedStatus) {
+
+            if (expireTime > currentTime) {
+                timeRemaining = -(expireTime.getTime() - currentTime.getTime());
+                timeRemaining = Math.abs(Math.floor(timeRemaining / (1000 * 60)));
+
+                setInfo(true, timeRemaining);
+                checkStatus();
+            } else {
+                setInfo(false);
+            }
+        }
+
+        // 不同状态链接到不同地址
+        if ( userinfo.paypassword.status == closedStatus){
+            jQuery('#pay_lock').parent().attr('href', G.baseUrl + '/user/paypassword/set');
+        }
+    }
+});
+var is_balance_show = false;
+jQuery(function(){
+    jQuery('#header_money_refresh').click(function(){
+        var ajax_money_params = {
+            success : function(obj){
+                if(obj.data.uid){
+                    is_balance_show = false;
+                    jQuery('#header_show_money').trigger('click');
+                }
+            }
+        }
+        initAjaxLogin(ajax_money_params);
+    });
+    var jQuery_wallet_container = jQuery('#wallet_container');
+    var jQuery_wallet_detail = jQuery('#wallet_detail');
+    jQuery('#header_show_money').click(
+        function(){
+            if (!is_balance_show) {
+                jQuery(this).html('隐藏余额');
+                jQuery('#header_user_money').addClass('red').html(jQuery('#header_user_money_hidden').val()).addClass('dashed_bottom');
+                is_balance_show = true;
+            }
+            else {
+                jQuery(this).html('显示余额');
+                jQuery('#header_user_money').removeClass('red').html('*****').removeClass('dashed_bottom');
+                is_balance_show = false;
+            }
+    });
+    jQuery_wallet_container.unbind().hover(function() {
+        if (typeof(is_balance_show) != 'undefined' && is_balance_show === true) {
+            jQuery_wallet_detail.show();
+        }
+    }, function(){
+        jQuery_wallet_detail.hide();
+    });
+    jQuery('#pay_lock').hover(function () {
+        jQuery('#pay_lock_box').show();
+    },function () {
+        jQuery('#pay_lock_box').hide();
+    });
+});
+
+jQuery('#dropdown_nav').unbind().hover(function() {
+    jQuery('.dropdown_ul').show();
+    jQuery(this).addClass('on');
+    //jQuery('.dropdown_text').addClass('on');
+}, function(){
+    jQuery('.dropdown_ul').hide();
+    jQuery(this).removeClass('on');
+    //jQuery('.dropdown_text').removeClass('on');
+});
+
+//导航更多
+jQuery(function(){
+    jQuery('#lotCategoryMore').hover(function(){
+        jQuery('#lotMoreBox').removeClass('hidden');
+        jQuery('#lotCategoryMore').addClass('lot_more_border');
+    },function(){
+        jQuery('#lotMoreBox').addClass('hidden');
+        jQuery('#lotCategoryMore').removeClass('lot_more_border');
+
+    });
+});
+</script>
+
+
+
+    <script type="text/javascript">fillActivitySlot('148293', hide_ads);</script>
+    <div class="main">
+        <div class="leftnav">
+                    <ul id="top_tab" class="changebox">
+                <li class="on" id="top_sort"><a href="javascript://">按分类查看</a></li>
+                <li id="top_time"><a href="javascript://">按时间查看</a></li>
+            </ul>
+            <div class="cznav" id="nav_sort">
+                <h2 class="tit"><a href="javascript://" class="fucai">全国福利彩票</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/50">双色球</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/52">福彩3D</a>（<a href="/lottery/draw/view/52/sjh" style="text-decoration:underline">试机号</a>）</h1></li>
+                    <li><h1><a href="/lottery/draw/view/53">新3D</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/51">七乐彩</a></h1></li>
+                </ul>
+                <h2 class="tit"><a href="javascript://" class="ticai">全国体育彩票</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/1">超级大乐透</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/2">七星彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/3">排列3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/4">排列5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/7">14场胜负彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/8">任选9场</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/9">四场进球</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/10">六场半全场</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/5">22选5</a></h1></li>
+                </ul>
+                <h2 class="tit"><a href="javascript://" class="difangcai">地方彩种</a></h2>
+                <ul class="dfc_item item" style="display: none;">
+                    <li class="on">
+                        <h1><a href="javascript://">华东六省</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li class="on"><a href="/lottery/draw/view/55">华东15选5</a></li>
+                            <li><a href="/lottery/draw/view/54">东方6+1</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">北京</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/502">体彩36选7</a></li>
+                            <li><a href="/lottery/draw/view/501">福彩两步彩</a></li>
+                            <li><a href="/lottery/draw/view/552">北京体彩33选7</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">天津</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/503">天津风采15选5</a></li>
+                            <li><a href="/lottery/draw/view/504">天津体彩6+1</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">安徽</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/505">安徽25选5</a></li>
+                            <li><a href="/lottery/draw/view/506">安徽15选5</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">福建</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/507">福建风采15选5</a></li>
+                            <li><a href="/lottery/draw/view/508">福建22选5</a></li>
+                            <li><a href="/lottery/draw/view/509">福建36选7</a></li>
+                            <li><a href="/lottery/draw/view/510">福建31选7</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">湖北</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/511">楚天风采22选5</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">河南</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/512">中原风采22选5</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">河北</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/513">燕赵风采排列7</a></li>
+                            <li><a href="/lottery/draw/view/514">燕赵风采20选5</a></li>
+                            <li><a href="/lottery/draw/view/515">燕赵风采排列5</a></li>
+                            <li><a href="/lottery/draw/view/553">燕赵风采好运彩2</a></li>
+                            <li><a href="/lottery/draw/view/554">燕赵风采好运彩3</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">辽宁</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/516">辽宁风采35选7</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">山东</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            
+                            <li><a href="/lottery/draw/view/518">齐鲁风采23选5</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">云南</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/519">福彩天天乐</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">贵州</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/519">福彩天天乐</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">四川</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/519">福彩天天乐</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">新疆</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/520">新疆风采35选7</a></li>
+                            <li><a href="/lottery/draw/view/521">新疆风采偶数10选7</a></li>
+                            <li><a href="/lottery/draw/view/522">新疆风采18选7</a></li>
+                            <li><a href="/lottery/draw/view/523">新疆风采25选7</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">上海</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/524">上海天天彩选4</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">重庆</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/525">重庆风采20选5</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">广东</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/526">南粤风采26选5</a></li>
+                            <li><a href="/lottery/draw/view/536">南粤风采36选7</a></li>
+                            <li><a href="/lottery/draw/view/57">体彩36选7</a></li>
+                            <li><a href="/lottery/draw/view/555">南粤风采好彩1</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">广东深圳</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/551">深圳风采</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">广西</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/550">广西福彩快乐双彩</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">黑龙江</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/527">黑龙江36选7</a></li>
+                            <li><a href="/lottery/draw/view/528">黑龙江22选5</a></li>
+                            <li><a href="/lottery/draw/view/529">黑龙江P62</a></li>
+                            <li><a href="/lottery/draw/view/530">黑龙江6+1</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">湖南</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/531">湖南风采22选5</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">江苏</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/532">江苏体彩5+1</a></li>
+                            <li><a href="/lottery/draw/view/533">江苏体彩7位数</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">内蒙古</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/534">内蒙古风采22选5</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">山西</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/535">三晋风采21选5</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">浙江</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/537">浙江体彩31选7</a></li>
+                            <li><a href="/lottery/draw/view/538">浙江体彩6+1</a></li>
+                            <li><a href="/lottery/draw/view/539">浙江福彩15选5</a></li>
+                            <li><a href="/lottery/draw/view/540">浙江体彩20选5</a></li>
+                            <li><a href="/lottery/draw/view/541">浙江体彩29选7</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h1><a href="javascript://">海南</a></h1>
+                        <ul class="dfc_ul" style="display: none;">
+                            <li><a href="/lottery/draw/view/549">海南4+1</a></li>
+                        </ul>
+                    </li>
+                </ul>
+                <h2 class="tit"><a href="javascript://" class="gaopincai">高频彩种</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/20">老11选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/200">时时彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/202">新时时彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/22">11选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/23">新11选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/558">重庆11选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/562">上海11选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/201">上海时时乐</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/543">北京快乐8</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/517">山东群英会</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/547">泳坛夺金</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/544">广东快乐十分</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/545">广西快乐十分</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/556">湖南快乐十分</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/566">重庆快乐十分</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/557">PK拾</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/559">8选3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/560">新快3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/561">快3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/564">老快3</a></h1></li>
+                    <!--<li><h1><a href="/lottery/draw/view/548">扑克彩·十分乐</a></h1></li>-->
+                    <li><h1><a href="/lottery/draw/view/563">湖南幸运赛车</a></h1></li>
+                </ul>
+            </div>
+            <div class="cznav" id="nav_time" style="display: none;">
+                <h2 class="tit"><a href="javascript://" class="gaopincai">星期一</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/1?menu=time">超级大乐透</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/5?menu=time">22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/541?menu=time">浙江29选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/51?menu=time">七乐彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/504?menu=time">天津体彩6+1</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/501?menu=time">北京福彩两步彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/552?menu=time">北京体彩33选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/525?menu=time">重庆风采20选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/516?menu=time">辽宁风采35选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/520?menu=time">新疆风采35选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/522?menu=time">新疆风采18选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/521?menu=time">新疆风采偶数10选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/55?menu=time">六省联销福彩15选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/54?menu=time">六省联销东方6+1</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/55?menu=time">上海福彩15选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/524?menu=time">上海福彩天天彩选4</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/503?menu=time">天津风采15选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/532?menu=time">江苏体彩5+1</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/55?menu=time">江苏福彩15选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/537?menu=time">浙江体彩31选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/538?menu=time">浙江体彩6+1</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/540?menu=time">浙江体彩20选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/55?menu=time">浙江福彩15选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/510?menu=time">福建体彩31选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/507?menu=time">福建风采15选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/536?menu=time">广东福彩36选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/555?menu=time">南粤风采好彩1</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/527?menu=time">黑龙江福彩36选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/529?menu=time">黑龙江福彩P62</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/528?menu=time">黑龙江福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/519?menu=time"> 四川福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/514?menu=time">河北福彩20选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/515?menu=time">河北福彩排列5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/513?menu=time">河北福彩排列7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/553?menu-time">燕赵风采好运彩2</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/554?menu-time">燕赵风采好运彩3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/512?menu=time">河南福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/511?menu=time">湖北福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/518?menu=time">山东福彩23选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/535?menu=time">山西福彩21选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/519?menu=time">云南福彩天天乐</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/534?menu=time">内蒙古风采22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/531?menu=time">湖南福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/55?menu=time">江西福彩15选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/505?menu=time">安徽福彩25选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/506?menu=time">安徽福彩15选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/519?menu=time">贵州福彩天天乐</a></h1></li>
+                </ul>
+                <h2 class="tit"><a href="javascript://" class="gaopincai">星期二</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/50?menu=time">双色球</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/2?menu=time">七星彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/5?menu=time">22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/525?menu=time">重庆风采20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">六省联销福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">上海福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/524?menu=time">上海福彩天天彩选4</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/503?menu=time">天津风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/552?menu=time">北京体彩33选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/533?menu=time">江苏体彩7位数</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江苏福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/532?menu=time">江苏体彩5+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江苏福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/537?menu=time">浙江体彩31选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/538?menu=time">浙江体彩6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/540?menu=time">浙江体彩20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">浙江福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/510?menu=time">福建体彩31选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/507?menu=time">福建风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/536?menu=time">广东福彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/555?menu=time">南粤风采好彩1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/551?menu=time">深圳风采</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/527?menu=time">黑龙江福彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/529?menu=time">黑龙江福彩P62</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/528?menu=time">黑龙江福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time"> 四川福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/514?menu=time">河北福彩20选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/515?menu=time">河北福彩排列5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/513?menu=time">河北福彩排列7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/553?menu-time">燕赵风采好运彩2</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/554?menu-time">燕赵风采好运彩3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/512?menu=time">河南福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/511?menu=time">湖北福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/518?menu=time">山东福彩23选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/535?menu=time">山西福彩21选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">云南福彩天天乐</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/534?menu=time">内蒙古风采22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/531?menu=time">湖南福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江西福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/505?menu=time">安徽福彩25选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/506?menu=time">安徽福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">贵州福彩天天乐</a></h1></li>
+                </ul>
+                <h2 class="tit"><a href="javascript://" class="gaopincai">星期三</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/1?menu=time">超级大乐透</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/51?menu=time">七乐彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/5?menu=time">22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/504?menu=time">天津体彩6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/501?menu=time">北京福彩两步彩</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/552?menu=time">北京体彩33选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/525?menu=time">重庆风采20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/516?menu=time">辽宁风采35选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/523?menu=time">新疆风采25选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">六省联销福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/54?menu=time">六省联销东方6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">上海福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/524?menu=time">上海福彩天天彩选4</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/503?menu=time">天津风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/532?menu=time">江苏体彩5+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江苏福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/537?menu=time">浙江体彩31选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/538?menu=time">浙江体彩6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/540?menu=time">浙江体彩20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">浙江福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/510?menu=time">福建体彩31选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/507?menu=time">福建风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/536?menu=time">广东福彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/555?menu=time">南粤风采好彩1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/527?menu=time">黑龙江福彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/529?menu=time">黑龙江福彩P62</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/528?menu=time">黑龙江福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time"> 四川福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/514?menu=time">河北福彩20选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/515?menu=time">河北福彩排列5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/513?menu=time">河北福彩排列7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/553?menu-time">燕赵风采好运彩2</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/554?menu-time">燕赵风采好运彩3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/512?menu=time">河南福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/511?menu=time">湖北福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/518?menu=time">山东福彩23选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/535?menu=time">山西福彩21选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">云南福彩天天乐</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/534?menu=time">内蒙古风采22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/531?menu=time">湖南福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江西福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/505?menu=time">安徽福彩25选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/506?menu=time">安徽福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">贵州福彩天天乐</a></h1></li>
+                </ul>
+                <h2 class="tit"><a href="javascript://" class="gaopincai">星期四</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/50?menu=time">双色球</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/5?menu=time">22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/541?menu=time">浙江体彩29选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/525?menu=time">重庆风采20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">六省联销福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">上海福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/524?menu=time">上海福彩天天彩选4</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/503?menu=time">天津风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/552?menu=time">北京体彩33选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/533?menu=time">江苏体彩7位数</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江苏福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/532?menu=time">江苏体彩5+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/537?menu=time">浙江体彩31选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/538?menu=time">浙江体彩6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/540?menu=time">浙江体彩20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">浙江福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/509?menu=time">福建体彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/507?menu=time">福建风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/536?menu=time">广东福彩36选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/526?menu=time">广东福彩26选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/555?menu=time">南粤风采好彩1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/529?menu=time">黑龙江福彩P62</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/528?menu=time">黑龙江福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time"> 四川福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/514?menu=time">河北福彩20选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/515?menu=time">河北福彩排列5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/513?menu=time">河北福彩排列7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/553?menu-time">燕赵风采好运彩2</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/554?menu-time">燕赵风采好运彩3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/512?menu=time">河南福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/511?menu=time">湖北福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/518?menu=time">山东福彩23选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/535?menu=time">山西福彩21选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">云南福彩天天乐</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/534?menu=time">内蒙古风采22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/531?menu=time">湖南福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江西福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/505?menu=time">安徽福彩25选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/506?menu=time">安徽福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">贵州福彩天天乐</a></h1></li>
+                </ul>
+                <h2 class="tit"><a href="javascript://" class="gaopincai">星期五</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/2?menu=time">七星彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/5?menu=time">22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/51?menu=time">七乐彩</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/552?menu=time">北京体彩33选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/502?menu=time">北京体彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/525?menu=time">重庆风采20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/520?menu=time">新疆风采35选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/522?menu=time">新疆风采18选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/521?menu=time">新疆风采偶数10选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">六省联销福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/54?menu=time">六省联销东方6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">上海福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/524?menu=time">上海福彩天天彩选4</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/503?menu=time">天津风采15选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/533?menu=time">江苏体彩7位数</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江苏福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/537?menu=time">浙江体彩31选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/538?menu=time">浙江体彩6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/540?menu=time">浙江体彩20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">浙江福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/510?menu=time">福建体彩31选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/507?menu=time">福建风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/536?menu=time">广东福彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/555?menu=time">南粤风采好彩1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/551?menu=time">深圳风采</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/527?menu=time">黑龙江福彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/529?menu=time">黑龙江福彩P62</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/528?menu=time">黑龙江福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time"> 四川福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/514?menu=time">河北福彩20选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/515?menu=time">河北福彩排列5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/513?menu=time">河北福彩排列7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/553?menu-time">燕赵风采好运彩2</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/554?menu-time">燕赵风采好运彩3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/512?menu=time">河南福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/511?menu=time">湖北福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/518?menu=time">山东福彩23选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/535?menu=time">山西福彩21选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">云南福彩天天乐</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/534?menu=time">内蒙古风采22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/531?menu=time">湖南福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江西福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/505?menu=time">安徽福彩25选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/506?menu=time">安徽福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">贵州福彩天天乐</a></h1></li>
+                </ul>
+                <h2 class="tit"><a href="javascript://" class="gaopincai">星期六</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/1?menu=time">超级大乐透</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/5?menu=time">22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/541?menu=time">浙江体彩29选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/501?menu=time">北京福彩两步彩</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/552?menu=time">北京体彩33选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/525?menu=time">重庆风采20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/516?menu=time">辽宁风采35选7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/523?menu=time">新疆风采25选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">六省联销福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/54?menu=time">六省联销东方6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">上海福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/524?menu=time">上海福彩天天彩选4</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/503?menu=time">天津风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/532?menu=time">江苏体彩5+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江苏福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/537?menu=time">浙江体彩31选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/538?menu=time">浙江体彩6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/540?menu=time">浙江体彩20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">浙江福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/509?menu=time">福建体彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/507?menu=time">福建风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/536?menu=time">广东福彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/555?menu=time">南粤风采好彩1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/527?menu=time">黑龙江福彩36选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/529?menu=time">黑龙江福彩P62</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/528?menu=time">黑龙江福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time"> 四川福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/514?menu=time">河北福彩20选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/515?menu=time">河北福彩排列5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/513?menu=time">河北福彩排列7</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/553?menu-time">燕赵风采好运彩2</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/554?menu-time">燕赵风采好运彩3</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/512?menu=time">河南福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/511?menu=time">湖北福彩22选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/518?menu=time">山东福彩23选5</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/535?menu=time">山西福彩21选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">云南福彩天天乐</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/534?menu=time">内蒙古风采22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/531?menu=time">湖南福彩22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江西福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/505?menu=time">安徽福彩25选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/506?menu=time">安徽福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/519?menu=time">贵州福彩天天乐</a></h1></li>
+                </ul>
+                <h2 class="tit"><a href="javascript://" class="gaopincai">星期日</a></h2>
+                <ul class="item" style="display: none;">
+                    <li><h1><a href="/lottery/draw/view/50?menu=time">双色球</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/2?menu=time">七星彩</a></h1></li>
+                    <li><h1><a href="/lottery/draw/view/5?menu=time">22选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/533?menu=time">江苏体彩7位数</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/54?menu=time">浙江体彩6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/525?menu=time">重庆风采20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">六省联销福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">上海福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/524?menu=time">上海福彩天天彩选4</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/503?menu=time">天津风采15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/552?menu=time">北京体彩33选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">江苏福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/537?menu=time">浙江体彩31选7</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/538?menu=time">浙江体彩6+1</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/540?menu=time">浙江体彩20选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/55?menu=time">浙江福彩15选5</a></h1></li>
+                   <li><h1><a href="/lottery/draw/view/510?
