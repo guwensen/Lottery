@@ -4,7 +4,7 @@
 
 string rfindInFile(const string& fileName, const string& keyword)
 {
-	// ´ò¿ªÎÄ¼þ
+	// æ‰“å¼€æ–‡ä»¶
 	ifstream in(fileName.c_str());
 	if (!in.is_open()) {
 		cout << "error to open file " << fileName << endl;
@@ -13,7 +13,7 @@ string rfindInFile(const string& fileName, const string& keyword)
 	ostringstream os;
 	os << in.rdbuf();
 	string content(os.str());
-	// ´ÓºóÃæÍùÇ°ÕÒµ½ÕâÒ»ÐÐ
+	// ä»ŽåŽé¢å¾€å‰æ‰¾åˆ°è¿™ä¸€è¡Œ
 	size_t fpos = content.rfind(keyword);
 	if (string::npos == fpos) {
 		return "";

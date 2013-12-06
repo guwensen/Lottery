@@ -15,17 +15,17 @@ bool CQSSC::doParse(void)
 	if (sub.empty()) {
 		return false;
 	}
-	// ¿ªÊ¼½âÎö 
+	// å¼€å§‹è§£æ
 	string ball = sub.substr(sub.find("["), 21);
 	string open_time = sub.substr(sub.find("\"open_time\":\""), 33);
 	string number = sub.substr(sub.find("var phase_key = '"), 29);
-	// ÕûÀí¸ñÊ½ £¬´æ´¢ 
+	// æ•´ç†æ ¼å¼ ï¼Œå­˜å‚¨
 	number = number.substr(17, 11);
 	if (0 == number.compare(this->number)) {
 		return false;
 	}
 	ball = ball.substr(1, ball.length() - 2);
-	remove_char(ball, '"'); 
+	remove_char(ball, '"');
 	this->result = ball;
 	this->openTime = open_time.substr(13, 19);
 	this->number = number;

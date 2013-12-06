@@ -39,7 +39,7 @@ int submitLottery(Lottery* lottery)
 	params += lottery->getGame() + "^&expect=";
 	params += lottery->getNumber() + "^&opencode=" + lottery->getResult() + "^&enddt=" + openTime;
 	string request(tool + *g_jieshuiURL + params);
-	// 去掉request中的空格
+	// 鍘绘帀request涓殑绌烘牸
 	remove_char(request, '\n');
 	cout << request << endl;
 

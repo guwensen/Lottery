@@ -10,16 +10,16 @@ using namespace std;
 class Lottery
 {
 protected:
-	string game;		// ÓÎÏ·ÀàĞÍ
-	string result;		// ¿ª½±½á¹û
-	string openTime;	// ¿ª½±Ê±¼ä
-	string number;		// ÆÚÊı
+	string game;		// æ¸¸æˆç±»å‹
+	string result;		// å¼€å¥–ç»“æœ
+	string openTime;	// å¼€å¥–æ—¶é—´
+	string number;		// æœŸæ•°
 
-	string file;		// ÇëÇóËù´æ·ÅµÄÎÄ¼ş
-	string url;			// ÏòºÎ´¦ÇëÇó
-	string request;		// ÇëÇó
+	string file;		// è¯·æ±‚æ‰€å­˜æ”¾çš„æ–‡ä»¶
+	string url;			// å‘ä½•å¤„è¯·æ±‚
+	string request;		// è¯·æ±‚
 
-	HTMLParser* parser;	// ½âÎöÆ÷
+	HTMLParser* parser;	// è§£æå™¨
 
 public:
 	Lottery(const string& game, const string& file, const string& url);
@@ -30,9 +30,9 @@ public:
 	const string& getOpenTime(void);
 	virtual string getNumber(void);
 
-	virtual int doRequest(void);		// ·¢ÆğÇëÇó £¬·µ»Ø×´Ì¬Âë
-	//virtual bool doParse(void) = 0;		// ¶ÔÇëÇó½øĞĞ½âÎö £¬×ÓÀà¾ßÌåÊµÏÖ
-	virtual bool lottery(void);			// ¿ª½±
+	virtual int doRequest(void);		// å‘èµ·è¯·æ±‚ ï¼Œè¿”å›çŠ¶æ€ç 
+	//virtual bool doParse(void) = 0;		// å¯¹è¯·æ±‚è¿›è¡Œè§£æ ï¼Œå­ç±»å…·ä½“å®ç°
+	virtual bool lottery(void);			// å¼€å¥–
 };
 
 #endif // _LOTTERY_H_

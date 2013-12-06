@@ -6,7 +6,7 @@ bool HTMLParser::parse(void)
 {
 	char line[256];
 	int lineNumber = 0;
-	// ´ò¿ªÎÄ¼ş
+	// æ‰“å¼€æ–‡ä»¶
 	ifstream in(html.c_str());
 	if (!in.is_open()) {
 		cout << "error to open file " << html << endl;
@@ -14,12 +14,12 @@ bool HTMLParser::parse(void)
 	}
 	while(!in.eof()) {
 		lineNumber++;
-		in.getline(line, sizeof line, '\n');//getline(char *,int,char) ±íÊ¾¸ÃĞĞ×Ö·û´ïµ½256¸ö»òÓöµ½»»ĞĞ¾Í½áÊø
+		in.getline(line, sizeof line, '\n');//getline(char *,int,char) è¡¨ç¤ºè¯¥è¡Œå­—ç¬¦è¾¾åˆ°256ä¸ªæˆ–é‡åˆ°æ¢è¡Œå°±ç»“æŸ
 		if (lineNumber == 3) {
 			char date[64], number[64], time[64];
 			sscanf(line, "\t<span>%8s-%s\t%5s</span>", date, number, time);
 			if (this->number.compare(number) == 0) {
-				// ÒÑ¾­¿ª¹ı½±ÁË
+				// å·²ç»å¼€è¿‡å¥–äº†
 				return false;
 			}
 			this->openDate = date;
@@ -43,7 +43,7 @@ bool HTMLParser::parseResult(ifstream& in)
 	vector<int> arr;
 	while(!in.eof()) {
 		lineNumber++;
-		in.getline(line, sizeof line, '\n');//getline(char *,int,char) ±íÊ¾¸ÃĞĞ×Ö·û´ïµ½256¸ö»òÓöµ½»»ĞĞ¾Í½áÊø
+		in.getline(line, sizeof line, '\n');//getline(char *,int,char) è¡¨ç¤ºè¯¥è¡Œå­—ç¬¦è¾¾åˆ°256ä¸ªæˆ–é‡åˆ°æ¢è¡Œå°±ç»“æŸ
 		//string str = line;
 		int ball;
 		if (0 != sscanf(line, parseFormat.c_str(), &ball)) {
@@ -82,7 +82,7 @@ bool GDKL10FParser::parseResult(ifstream& in)
 	vector<int> arr;
 	while(!in.eof()) {
 		lineNumber++;
-		in.getline(line, sizeof line, '\n');//getline(char *,int,char) ±íÊ¾¸ÃĞĞ×Ö·û´ïµ½256¸ö»òÓöµ½»»ĞĞ¾Í½áÊø
+		in.getline(line, sizeof line, '\n');//getline(char *,int,char) è¡¨ç¤ºè¯¥è¡Œå­—ç¬¦è¾¾åˆ°256ä¸ªæˆ–é‡åˆ°æ¢è¡Œå°±ç»“æŸ
 		//string str = line;
 		int ball;
 		if (0 != sscanf(line, "\t<div class='blue-ball  red-blue-ball'>%2d</div>", &ball)

@@ -16,11 +16,11 @@ bool GDKL10F::doParse(void)
 	if (sub.empty()) {
 		return false;
 	}
-	// ¿ªÊ¼½âÎö 
+	// å¼€å§‹è§£æ
 	string ball = sub.substr(sub.find("["), 41);
 	string open_time = sub.substr(sub.find("\"open_time\":\""), 33);
 	string number = sub.substr(sub.find("var phase_key = '"), 28);
-	// ÕûÀí¸ñÊ½ £¬´æ´¢ 
+	// æ•´ç†æ ¼å¼ ï¼Œå­˜å‚¨
 	number = number.substr(17, 10);
 	if (0 == number.compare(this->number)) {
 		return false;
