@@ -9,8 +9,7 @@ class CQSSC : public Lottery
 {
 public:
 	CQSSC(const string& file, const string& url)
-		: Lottery("cqssc", file, url)
-	{
+		: Lottery("cqssc", file, url) {
 		parser = new CQSSCParser(file);
 	}
 

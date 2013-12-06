@@ -9,8 +9,7 @@ class GDKL10F : public Lottery
 {
 public:
 	GDKL10F(const string& file, const string& url)
-		: Lottery("gdkl10f", file, url)
-	{
+		: Lottery("gdkl10f", file, url) {
 		parser = new GDKL10FParser(file);
 	}
 	bool doParse(void);

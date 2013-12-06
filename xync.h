@@ -9,12 +9,10 @@ class XYNC : public Lottery
 {
 public:
 	XYNC(const string& file, const string& url)
-		: Lottery("xinyunnongchang", file, url)
-	{
+		: Lottery("xinyunnongchang", file, url) {
 		parser = new XYNCParser(file);
 	}
-	virtual string getNumber(void)
-	{
+	virtual string getNumber(void) {
 		return parser->getOpenDate() + "0" + parser->getNumber();
 	}
 	/*

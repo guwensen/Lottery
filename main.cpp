@@ -39,10 +39,10 @@ int submitLottery(Lottery* lottery)
 	params += lottery->getGame() + "^&expect=";
 	params += lottery->getNumber() + "^&opencode=" + lottery->getResult() + "^&enddt=" + openTime;
 	string request(tool + *g_jieshuiURL + params);
-	// 去掉request中的空格 
+	// 去掉request中的空格
 	remove_char(request, '\n');
 	cout << request << endl;
-	
+
 	return system(request.c_str());
 }
 /*
@@ -76,7 +76,7 @@ VOID CALLBACK TimerProc(HWND hwnd,UINT uMsg,UINT idEvent,DWORD dwTime)
 		//showDebugInfo(ssc);
 	}
 #endif
-	for (int i = 0; i < lotterys.size(); ++i) {
+	for (unsigned int i = 0; i < lotterys.size(); ++i) {
 		Lottery* lottery = lotterys[i];
 		if (lottery->lottery()) {
 			//showDebugInfo(lotterys[i]);
@@ -112,39 +112,37 @@ int main()
 	//HTMLParser parser("xync", "\t<div class=\"xync-ball xync-ball-no%2d\"></div>");
 	//HTMLParser parser("jsk3", "\t<div class=\"jsk3-ball jsk3-no%d\"></div>");
 	//HTMLParser parser("ssc", "\t<div class=\"red-blue-ball\">%d</div>");
-	
+
 	int timer1 = 1;
-	HWND hwndTimer;   
+	//HWND hwndTimer;
 	MSG msg;
-	
+
 	if (!loadConfig()) {
 		cout << "error to load config" << endl;
 		return EXIT_FAILURE;
 	}
-	
+
 	lotterys.push_back(new GDKL10F("gdkl10f.txt", "http://www.1396me.com/gdkl10/currentaward"));
 	lotterys.push_back(new CQSSC("cqssc.txt", "http://www.1396me.com/shishicai/currentaward"));
 	lotterys.push_back(new JSK3("jsk3.txt", "http://www.1396me.com/jsk3/currentaward"));
 	lotterys.push_back(new XYNC("sync.txt", "http://www.1396me.com/xync/currentaward"));
 	lotterys.push_back(new PK10("pk10.txt", "http://www.1396me.com/pk10/currentaward"));
-	
+
 #if 0
 	TimerProc(0,0,0,0);
 	system("PAUSE");
 	return EXIT_SUCCESS;
 #endif
-	
+
 	SetTimer(NULL,timer1,g_timer,TimerProc);
-	while (GetMessage(&msg, NULL, 0, 0) != 0 
-		&& GetMessage(&msg, NULL, 0, 0) != -1)
-	{ 
-		if (msg.message == WM_TIMER) 
-		{ 	
+	while (GetMessage(&msg, NULL, 0, 0) != 0
+			&& GetMessage(&msg, NULL, 0, 0) != -1) {
+		if (msg.message == WM_TIMER) {
 			//std::cout << "i got the message" << std::endl;
-			TranslateMessage(&msg); 
-			DispatchMessage(&msg);  
-		} 
-	} 
+			TranslateMessage(&msg);
+			DispatchMessage(&msg);
+		}
+	}
 	//system("PAUSE");
 	return EXIT_SUCCESS;
 }

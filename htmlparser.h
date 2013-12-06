@@ -16,19 +16,20 @@ protected:
 	string number;
 	string openTime;
 	string result;
-	
+
 	string html;
 	string parseFormat;
 public:
-	HTMLParser(const string& html, const string& parseFormat)
-	{
+	HTMLParser(const string& html, const string& parseFormat) {
 		this->parseFormat = parseFormat;
 		this->html = html;
 	}
-	
+	virtual ~HTMLParser(void) {
+	}
+
 	bool parse(void);
 	virtual bool parseResult(ifstream& in);
-	
+
 	const string& getOpenDate(void) {
 		return openDate;
 	}
@@ -41,14 +42,14 @@ public:
 	const string& getResult(void) {
 		return result;
 	}
-}; 
+};
 
 class GDKL10FParser : public HTMLParser
 {
 public:
 	GDKL10FParser(const string& html) : HTMLParser(html, "\t<div class='blue-ball  red-blue-ball'>%2d</div>") {
 	}
-	virtual bool parseResult(ifstream& in);
+	bool parseResult(ifstream& in);
 };
 
 class CQSSCParser : public HTMLParser

@@ -12,7 +12,8 @@ Lottery::Lottery(const string& game, const string& file, const string& url)
 	this->game = game;
 	this->file = file;
 	this->url = url;
-	
+	this->parser = NULL;
+
 	string tool = ".\\curl\\bin\\curl.exe";
 	//string options = "--user-agent \"Chrome/31.0.1650.57\" -e http://localhost -o ";
 	string options = " -s -o ";
