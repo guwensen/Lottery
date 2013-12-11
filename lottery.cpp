@@ -4,6 +4,7 @@
 #include <sstream>
 
 #include "lottery.h"
+#include "utilities.h"
 
 using namespace std;
 
@@ -14,10 +15,10 @@ Lottery::Lottery(const string& game, const string& file, const string& url)
 	this->url = url;
 	this->parser = NULL;
 
-	string tool = ".\\curl\\bin\\curl.exe";
+	//string tool = ".\\curl\\bin\\curl.exe";
 	//string options = "--user-agent \"Chrome/31.0.1650.57\" -e http://localhost -o ";
-	string options = " -s -o ";
-	this->request = tool + options + file + " " + url;
+	//string options = " -s -o ";
+	//this->request = tool + options + file + " " + url;
 }
 
 
@@ -43,7 +44,8 @@ const string& Lottery::getOpenTime(void)
 
 int Lottery::doRequest(void)
 {
-	return system(request.c_str());
+	//return system(request.c_str());
+	return curlDownload(url.c_str(), file.c_str());
 }
 
 bool Lottery::lottery(void)

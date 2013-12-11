@@ -10,5 +10,6 @@ using namespace std;
 
 extern string rfindInFile(const string& fileName, const string& keyword);
 extern void remove_char(string& str, char c);
+extern int curlDownload(const char* url, const char* fileName = NULL);
 
 #endif // _UTILITIES_H_

@@ -30,20 +30,22 @@ void showDebugInfo(Lottery* lottery)
 
 int submitLottery(Lottery* lottery)
 {
-	string tool(".\\curl\\bin\\curl.exe ");
+	//string tool(".\\curl\\bin\\curl.exe ");
 	//string url("http://hy.bk86.us/jieshui.php");
 	string openTime(lottery->getOpenTime());
 	openTime = openTime.substr(0, 4) + "-" + openTime.substr(4, 2) + "-" + openTime.substr(6, 2) + openTime.substr(8);
 	openTime.replace(10, 1, "%20");
 	string params("?bclass_wd=");
-	params += lottery->getGame() + "^&expect=";
-	params += lottery->getNumber() + "^&opencode=" + lottery->getResult() + "^&enddt=" + openTime;
-	string request(tool + *g_jieshuiURL + params);
+	params += lottery->getGame() + "&expect=";
+	params += lottery->getNumber() + "&opencode=" + lottery->getResult() + "&enddt=" + openTime;
+	string request(/*tool + */*g_jieshuiURL + params);
 	// 去掉request中的空格
 	remove_char(request, '\n');
 	cout << request << endl;
 
-	return system(request.c_str());
+	//return system(request.c_str());
+	return curlDownload(request.c_str());
+	//return 0;
 }
 /*
 int main(int argc, char *argv[])
