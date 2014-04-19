@@ -1,13 +1,13 @@
 <div class="title">
                             <b>最新开奖结果：</b>
-                            <span>20131202-102  22:30</span>
+                            <span>20131214-093  21:30</span>
                         </div>
                         <div class="numbers mt20">
-                            <div class="red-blue-ball">0</div>
-                            <div class="red-blue-ball">1</div>
-                            <div class="red-blue-ball">9</div>
                             <div class="red-blue-ball">6</div>
+                            <div class="red-blue-ball">5</div>
+                            <div class="red-blue-ball">8</div>
                             <div class="red-blue-ball">0</div>
+                            <div class="red-blue-ball">3</div>
                         </div>
                         <table>
                             <tr class="head-tr">
@@ -18,12 +18,12 @@
                                 <td>后三</td>
                             </tr>
                             <tr>
-                                <td>16</td>
+                                <td>22</td>
                                 <td>双</td>
                                 <td>小</td>
-                                <td>和</td>
-                                <td>顺子</td>
-                                <td>杂六</td>
+                                <td>龍</td>
                                 <td>半顺</td>
+                                <td>杂六</td>
+                                <td>杂六</td>
                             </tr>
                         </table>

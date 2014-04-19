@@ -1,30 +1,30 @@
 <div class="title">
                                 <b>最新开奖结果：</b>
-                                <span>20131214-399842  21:27</span>
+                                <span>20140108-404314  21:12</span>
                             </div>
                             <div class="numbers">
                                 <span class="pk-no9"></span>
-                                <span class="pk-no10"></span>
+                                <span class="pk-no7"></span>
+                                <span class="pk-no8"></span>
                                 <span class="pk-no3"></span>
                                 <span class="pk-no2"></span>
-                                <span class="pk-no8"></span>
-                                <span class="pk-no7"></span>
-                                <span class="pk-no4"></span>
-                                <span class="pk-no1"></span>
                                 <span class="pk-no6"></span>
+                                <span class="pk-no1"></span>
+                                <span class="pk-no4"></span>
                                 <span class="pk-no5"></span>
+                                <span class="pk-no10"></span>
                             </div>
                             <b>冠亚和：</b>
                             <div class="result">
-                                <span>19</span>
+                                <span>16</span>
                                 <span>大</span>
-                                <span>单</span>
+                                <span>双</span>
                             </div>
                             <b>1~5龍虎：</b>
                             <div class="result none-bottom">
+                                <span>虎</span>
                                 <span>龍</span>
                                 <span>龍</span>
                                 <span>龍</span>
                                 <span>虎</span>
-                                <span>龍</span>
                             </div>

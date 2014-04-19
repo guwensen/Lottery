@@ -1,16 +1,16 @@
 <div class="title">
                             <b>最新开奖结果：</b>
-                            <span>20131202-89 22:33</span>
+                            <span>20131214-82 21:23</span>
                         </div>
                         <div class="numbers mt20">
-                            <div class="xync-ball xync-ball-no04"></div>
                             <div class="xync-ball xync-ball-no11"></div>
-                            <div class="xync-ball xync-ball-no19"></div>
+                            <div class="xync-ball xync-ball-no14"></div>
                             <div class="xync-ball xync-ball-no10"></div>
-                            <div class="xync-ball xync-ball-no08"></div>
-                            <div class="xync-ball xync-ball-no13"></div>
-                            <div class="xync-ball xync-ball-no02"></div>
+                            <div class="xync-ball xync-ball-no18"></div>
+                            <div class="xync-ball xync-ball-no19"></div>
+                            <div class="xync-ball xync-ball-no04"></div>
                             <div class="xync-ball xync-ball-no09"></div>
+                            <div class="xync-ball xync-ball-no01"></div>
                         </div>
                         <table>
                             <tr class="head-tr">
@@ -18,10 +18,10 @@
                                 <td colspan="4">1~4龍虎</td>
                             </tr>
                             <tr>
-                                <td>76</td>
+                                <td>86</td>
                                 <td>双</td>
-                                <td>小</td>
+                                <td>大</td>
                                 <td>尾大</td>
-                                <td>虎</td>
+                                <td>龍</td>
                             </tr>
                         </table>
